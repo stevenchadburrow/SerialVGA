@@ -8,7 +8,7 @@ Displays ~80x60 monochrome characters on a VGA monitor.  Max interface speed is 
 
 Example code:
 
-<code>
+```
 ; Assembly Example when connecting
 ; VCLK = PA0
 ; VDAT = PA1
@@ -85,4 +85,4 @@ sendchar_init ; initializes via
 	STA via_pa
 	PLA
 	RTS
-</code>
+```
