@@ -9,7 +9,7 @@ Displays ~80x60 monochrome characters on a VGA monitor.  Max interface speed is 
 Example code:
 
 ```
-; Assembly Example when connecting
+; 6502 Assembly Example when using 6522 VIA
 ; VCLK = PA0
 ; VDAT = PA1
 
