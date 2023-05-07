@@ -1,6 +1,6 @@
 # SerialVGA
 
-<img src="SerialVGA-Front.png">
+<img src="SerialVGA-Picture.png">
 
 Serial VGA Module
 
